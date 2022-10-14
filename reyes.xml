@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reyesEspañoles [
-  <!ELEMENT reyesEspañoles (rey*, reina*)>
+  <!ELEMENT reyesEspanoles (rey*, reina*)>
   <!ELEMENT rey (nombre, padre, madre)>
   <!ELEMENT nombre (#PCDATA)>
   <!ELEMENT padre (#PCDATA)>
@@ -10,7 +10,7 @@
 <reyesEspañoles>
   <rey>
     <nombre>Felipe III</nombre>
-    <padre>Felipe II</padre>
+    <padre>Felipe II </padre>
     <madre>Ana de Austria</madre>
   </rey>
   <reina>
